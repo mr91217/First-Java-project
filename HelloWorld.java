@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello JAVA World");
         System.out.println("Test git");
         System.out.println("re-Generate token");
+        System.out.println("TEST2");
     }
 }
